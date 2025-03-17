@@ -28,7 +28,7 @@ total_emails = sum(sender_counts.values())
 print(f"Total emails analyzed: {total_emails}")
 
 # Top offenders
-top_offenders = sender_counts.most_common(20)
+top_offenders = sender_counts.most_common(50)
 print("\nTop repeat offenders:")
 for sender, count in top_offenders:
     print(f"{sender}: {count} emails ({count/total_emails*100:.2f}%)")

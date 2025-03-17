@@ -1,3 +1,5 @@
+
+<img src="image.jpg" alt="Mailstrom Email Mastery" width="50%" height="50%">
 # Mailstrom
 A swirling vortex of cluttered email recovery.
 
